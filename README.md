@@ -1,2 +1,2 @@
-# algorithms_solved
-leetcode top 100 algorithms solved
+# Algorithms on java
+Leetcode top 100 algorithms solved
